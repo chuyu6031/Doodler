@@ -1,0 +1,7 @@
+{
+  "name": "Doodler",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
